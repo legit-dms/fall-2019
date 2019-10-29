@@ -37,8 +37,7 @@
 ## Week 4 (October 30th)
 
 * Hand out name cards
-* Ice Breaker: 
-Facts About Me - Give each student a blank template of a person. Then, the leader gives the students instructions on how to draw on the self-portrait based on facts. For example, the leader might say, “If you have a dog, draw a green shirt.” At the end, shuffle the pictures and see if the students can match them to the correct person.
+* Ice Breaker: Kid's Joke Book 
 * Review Rules: 
   * Have Fun
   * Raise hand to ask a question
@@ -51,8 +50,9 @@ Facts About Me - Give each student a blank template of a person. Then, the lead
   * Brackets vocab
   * Sectioning Apps - use elements (head/body/header, etc)
   * Navigation Bar
+  * Show how code gets updated in starter sites
 * Finish Dash if need be
-* Continue Working on Sites
+* Continue Working on Sites - Glitch
 * Microbits
 * Closing Activities
   * Collect name cards
